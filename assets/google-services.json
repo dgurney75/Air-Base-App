@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "610224678821",
+    "project_id": "air-base-app",
+    "storage_bucket": "air-base-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610224678821:android:db40b4f862058cdd60aa4c",
+        "android_client_info": {
+          "package_name": "air.com.maritz.baseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610224678821-kfnmfdis0ctvq9mrjujsin8v9k00p1it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "air.com.maritz.baseApp",
+            "certificate_hash": "b2858a4249f1c5d96df9efeb314a5a1664f833a2"
+          }
+        },
+        {
+          "client_id": "610224678821-kff6ekg2fvcu11s1s3b6hm5m2fdl2koh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96ChDAnb8fHmbRUp0YvykdDJZ-NG08wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610224678821-kff6ekg2fvcu11s1s3b6hm5m2fdl2koh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610224678821-93t38ocnkia6c9teh5pdle0752ogk3oi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maritz.baseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
